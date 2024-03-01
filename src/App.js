@@ -25,6 +25,8 @@ function App() {
         <Route path='/Laliga/Clasificacion' element={<Clasificacion/>}/>
       </Routes>
       </div>
+      Esta es una prueba de nueva version
+    
       
       
     </div>
